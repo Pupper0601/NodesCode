@@ -14,7 +14,7 @@ module.exports = {
   nav, // 导航栏
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: "/img/index/logo.png", // 导航栏logo
-  repo: "Kele-Bingtang/Kele-Bingtang.github.io", // 导航栏右侧生成Github链接
+  repo: "https://github.com/Pupper0601/NodesCode.git", // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: "更新时间", // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   docsDir: "docs", // 指定根目录
@@ -31,7 +31,7 @@ module.exports = {
   // pageStyle: 'card', // 页面风格，card 时背景显示灰色衬托出卡片样式，line 时背景显示纯色，并且部分模块带线条边框（未设置 bodyBgImg 时才生效），默认 card
   // defaultMode: 'auto', // 默认主题外观模式，用户未在页面手动修改过模式时才生效，否则以用户设置的模式为准，可选值：'auto' | 'light' | 'dark' | 'read'
 
-  bodyBgImg: "/img/index/bg.jpg",
+  bodyBgImg: "https://pupper.com.cn/img/bg1.jpg",
   // bodyBgImg: [
   //   'https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175828.jpeg',
   //   'https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
