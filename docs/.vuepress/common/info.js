@@ -10,7 +10,7 @@ const link = "https://pupper.cn";
 // 底部的 | 后的描述
 const footerTitle = 'blog';
 // 头像图片
-const avatar = 'docs/.vuepress/public/img/user/avatar.png'
+const avatar = 'https://pupper-1300525283.cos.ap-hongkong.myqcloud.com/scrcpy/logo1.png'
 // 头像下的昵称
 const name = 'Pupper'
 // 头像下的签名
