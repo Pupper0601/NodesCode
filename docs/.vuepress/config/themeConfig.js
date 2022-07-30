@@ -137,27 +137,27 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/kele-bingtang",
+        link: "https://github.com/Pupper0601",
       },
-      {
-        iconClass: "icon-gitee",
-        title: "Gitee",
-        link: "https://gitee.com/kele-bingtang",
-      },
+      // {
+      //   iconClass: "icon-gitee",
+      //   title: "Gitee",
+      //   link: "https://gitee.com/kele-bingtang",
+      // },
       {
         iconClass: "icon-rss",
         title: "网站首页",
-        link: "https://www.youngkbt.cn",
+        link: "https://pupper.cn",
       },
-      {
-        iconClass: "icon-QQ",
-        title: "QQ",
-        link: "http://wpa.qq.com/msgrd?v=3&uin=28761025&site=qq&menu=yes",
-      },
+      // {
+      //   iconClass: "icon-QQ",
+      //   title: "QQ",
+      //   link: "http://wpa.qq.com/msgrd?v=3&uin=28761025&site=qq&menu=yes",
+      // },
       {
         iconClass: "icon-youjian",
         title: "联系我",
-        link: "https://www.youngkbt.cn/?contact=true",
+        link: "pupper.cheng@gmail.com",
       },
     ],
   },

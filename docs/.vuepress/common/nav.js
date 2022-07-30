@@ -6,6 +6,8 @@ const databaseNav = require("../nav/databaseNav");
 const linuxNav = require("../nav/linuxNav");
 const softwareNav = require("../nav/softwareNav");
 
+const tipsNav = require("../nav/tipsNav");
+
 const toolNav = require("../nav/toolNav");
 const frontEnd = require("../nav/frontEnd");
 const indexNav = require("../nav/indexNav");
@@ -21,6 +23,7 @@ module.exports = [
   linuxNav, // linux导航
   softwareNav,  // 软件测试
 
+  tipsNav, // 零散小知识
   frontEnd,  // 前端导航
   toolNav,  // 工具导航 
   moreNav,   // 更多导航
