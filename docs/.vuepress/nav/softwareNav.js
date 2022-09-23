@@ -5,10 +5,10 @@ module.exports = {
         {
             text: '软件测试',
             items: [
+                { text: '自动化测试', link: '/interface/' },
+                { text: '测试开发', link: '/exploit/' },
                 { text: '性能测试', link: '/performance/' },
                 { text: '安全测试', link: '/secure/' },
-                { text: '接口测试', link: '/interface/' },
-                { text: '测试开发', link: '/exploit/' },
             ]
         },
         {
