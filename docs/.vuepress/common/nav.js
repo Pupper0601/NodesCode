@@ -1,6 +1,9 @@
 // nav
 const javaNav = require("../nav/javaNav");
 const pythonNav = require("../nav/pythonNav");
+
+const buildNav = require("../nav/buildNav");
+
 const databaseNav = require("../nav/databaseNav");
 
 const linuxNav = require("../nav/linuxNav");
@@ -18,6 +21,7 @@ module.exports = [
   },
   javaNav,   //Java导航
   pythonNav,  // python 导航
+  buildNav,   // 开发 导航
   databaseNav,  // 数据库导航
 
   linuxNav, // linux导航
